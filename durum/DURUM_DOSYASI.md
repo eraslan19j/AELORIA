@@ -1,9 +1,9 @@
 # AELORIA — DURUM DOSYASI
 ## (Bu dosya, Aeloria romanının hafızasıdır. Her oturum başında önce bu okunur.)
 
-**Son güncelleme:** Önsöz + Bölüm 1, 2, 3, 4 yazıldı. Ad sistemi yenilendi (bkz. `durum/AD_BILIMI.md`).
-**Sıradaki iş:** Bölüm 5 — HALDEN. Talim, kılıcına ad verme, kardeşini küçük düşürme, babasının sessizliği.
-**Toplam yazılan:** ~16.400 kelime (Önsöz 2.103 + B1 3.922 + B2 3.380 + B3 3.667 + B4 3.363).
+**Son güncelleme:** Önsöz + Bölüm 1-5 yazıldı. Ad sistemi yenilendi (bkz. `durum/AD_BILIMI.md`).
+**Sıradaki iş:** Bölüm 6 — MAREN. Beşik odası; ölü doğan çocuk; Edrin'e bakamayışının kökü.
+**Toplam yazılan:** ~19.600 kelime (Önsöz 2.103 + B1 3.922 + B2 3.380 + B3 3.667 + B4 3.363 + B5 3.186).
 
 ---
 
@@ -30,6 +30,7 @@
 | `roman/02_kursun.md` | Bölüm 2 — "Kurşun" | Sena | 3.375 | Tamam |
 | `roman/03_sol_el.md` | Bölüm 3 — "Sol El" | Torvald | 3.667 | Tamam |
 | `roman/04_rahip_yazisi.md` | Bölüm 4 — "Rahip Yazısı" | Edrin | 3.363 | Tamam |
+| `roman/05_borc.md` | Bölüm 5 — "Borç" | Halden | 3.186 | Tamam |
 
 ---
 
@@ -91,6 +92,16 @@
 - Avluda karda **derin topuklu ayak izleri** vardı; nöbetçi (on altı yaşında, adı yok) "Kâhya indi, kâğıtları saymaya; kâhya her gece iner" dedi.
 - Kuyu kapağının üstünde, kenara yakın, **bir el ayası kadar sıcak bir yer**. Servis salonunda bir kadın uykusunda "halka" diye sayıklıyor.
 
+### Bölüm 5 — "Borç" (kışın ilk gününden iki gün önce)
+- **Ser Korkut** (60, sol kulağının yarısı yok): silah ustası; Halden'e on üç yaşından beri kılıç öğretiyor; "Senin penceren boş" konuşması.
+- **İki kılıç:** Üç yıl önce Torvald'ın Akçaliman'da ısmarladığı, aynı uzunluk ve ağırlıkta iki kılıç — biri Halden'in (Halden ona içinden **Borç** adını verdi), öbürünün kınının ağzındaki gümüş halkaya **ARVALD** kazınmış. Kılıçlar ahırın arkasındaki taş kulübede, meşe bir kutuda, iki demir çengelde duruyor; kutuyu yalnız Halden taşır.
+- **Arvald:** Halden'in kardeşi, dokuz yaşında öksürük hummasından öldü. Halden on dört yaşındaydı; Arvald ölmeden bir gün önce odasına gelmiş, Halden "sonra," demiş, sonra çocuk ölmüştü. Kule merdivenlerinde Arvald hep "ağabey, kaç basamak var?" diye sorardı.
+- **Köpekler:** Halden Ulu ile Kara'yı kendi eliyle kesti (bıçak kendi elindeydi). Üçüncü köpek, kızıl kancık **Yonca** kesilmedi; kulübenin önünde oturup yüzünü kuzey duvarına çeviriyor ve kafasını taşa vuruyor. Kancada sallanan tasmada Ulu'nun diş izleri var.
+- **Edrin'in aşağılanması:** Halden, Edrin'e kova taşıttı, kumu sulattı, postanın arkasına geçirtti, kütüğe vurarak üstüne su sıçrattı; Edrin kayıp dizlerinin üstüne çöktüğünde tahta kılıcı omzuna hafifçe dokundurdu. Halden gülmedi; Timur gülünce, Halden ona baktı ve susturdu. Edrin'in gözü bir an kılıç kutusuna gitti; Halden bunu gördü.
+- **Torvald'ın odası:** Halden vergiyi söyledi, karşılık alamadı; Torvald sayıklayarak sordu: "Kâğıt geldi mi? Nehrin altından." Halden anlamadı. Yatağın altında meşe bir sandık var; kapağı yarım açık; içinde taş gibi kurumuş koyu bir kumaş görünüyor. Dadı Gülizar Halden'i odadan çıkardı.
+- **Kuzey Kule:** Halden, Kepçe'den "Oğlan indi, gece," cümlesini aldı; gece kuleye girdi; **otuz dokuzuncu basamağa kadar** çıktı (kâğıt kırkıncı basamağın altındadır); taşın içinden gelen nefesi duydu; kaçtı; avluda, ilk kez Kapankaya'dan korktu.
+- Halden, Edrin'i izlemeye karar verdi.
+
 ---
 
 ## 4. İSİM DEFTERİ (karışıklığı önlemek için)
@@ -149,6 +160,11 @@ Kapıaltı köyü; Buzdamı; Kuzey Kule; Mavi Oda (beşik odası); **Sarpınar**
 | Kepçe'nin artık sıcakta uyuyamaması | B4 | Perde 2: Kepçe tanıklığı |
 | Uykusunda "halka" diye sayıklayan kadın | B4 | Perde 2: halkayı bilenler |
 | Kuyu kapağındaki el ayası büyüklüğünde sıcak yer | B4 | Perde 2: kuyu olayı |
+| Arvald'ın adı kazınmış ikinci kılıç | B5 | Perde 2: Halden'in eline geçer ya da kırılır |
+| Yonca'nın kuzey duvarına bakması | B5 | Perde 3: Halden'in ölümü öncesi |
+| Torvald'ın yarım açık sandığı | B5 | B22: Edrin açar |
+| Halden'in Edrin'i izlemesi | B5 | B6-B8: kardeşler arası ilk çatlak |
+| Ser Korkut'un yorgunluğu | B5 | Perde 3: Halden'in savaşı |
 | Emir'in/uygulama teması için görsel semboller: kırık kartal, dağ geçidi, nehir, kule, mektup, kurşun mühür, yeşil cam | tamamı | Roman boyunca tutarlı |
 
 ---
@@ -203,4 +219,4 @@ Kapıaltı köyü; Buzdamı; Kuzey Kule; Mavi Oda (beşik odası); **Sarpınar**
 
 - Yazılan: Önsöz + B1-B4 (~16.4k kelime).
 - Ad sistemi tamamlandı ve bütün metne uygulandı: `durum/AD_BILIMI.md` (halk adı + kadim ad; eski→yeni tablo). Metinde eski adlardan hiçbiri kalmadı.
-- Sıradaki eylem: **Bölüm 5 — "BORÇ"** (POV: Halden). Talim sahası; Halden kılıcına ad verir (Akçaliman işi kılıç; adı "Borç"); Edrin'i bir kez daha küçük düşürür; babasının odasından çıkarken Torvald'ın sandığını görür (görür ama bakmaz); bölüm, Halden'in köpeklere ne olduğunu anlamak için buzdamına inmesi ve kanca kırk yedideki ip ucunu görmesiyle bitmeli. Bir tohum: Halden, kardeşinin buzdamına indiğini öğrenir (Kepçe'den) ve ilk kez Edrin'den şüphelenir.
+- Sıradaki eylem: **Bölüm 6 — "BOŞ BEŞİK"** (POV: Maren). Mavi Oda; üç ölü doğum; ölü doğan son bebeğin battaniyesi (Edrin'in çocukluk battaniyesi); Maren'in Edrin'e bakamayışının kökü; Torvald'ın ölü doğum gecesi odasından çıkmayışı; Maren'in sezgisi: "bu kış bir şey olacak." Bölüm bir tohumla bitmeli: Maren, kocasının sandığını açar ve Edvin'in adını görür (ya da pelerin parçasını).

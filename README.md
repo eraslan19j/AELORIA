@@ -13,8 +13,9 @@ George R. R. Martin çizgisinde: çok bakış açılı, gri ahlaklı, sırları 
 | 2 | Kurşun | Sena | 3.375 |
 | 3 | Sol El | Torvald | 3.667 |
 | 4 | Rahip Yazısı | Edrin | 3.363 |
+| 5 | Borç | Halden | 3.186 |
 
-Toplam: ~16.400 kelime. Hedef: 40 bölüm + önsöz + sonsöz, 120.000+ kelime.
+Toplam: ~19.600 kelime. Hedef: 40 bölüm + önsöz + sonsöz, 120.000+ kelime.
 
 ## Dosyalar
 
@@ -31,6 +32,7 @@ Toplam: ~16.400 kelime. Hedef: 40 bölüm + önsöz + sonsöz, 120.000+ kelime.
 3. `roman/02_kursun.md`
 4. `roman/03_sol_el.md`
 5. `roman/04_rahip_yazisi.md`
+6. `roman/05_borc.md`
 
 ## Dünya (özet)
 
