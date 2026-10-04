@@ -1,17 +1,17 @@
 # BÖLÜM 1
 ## KIRK YEDİ
 
-**Bakış açısı: Edrin Varyn — kışın ilk gününden beş gün önce**
+**Bakış açısı: Edrin Kadran — kışın ilk gününden beş gün önce**
 
-Buzdamı, Demirkapı Kalesi'nin karnıydı.
+Buzdamı, Kapankaya Kalesi'nin karnıydı.
 
-Yüz kırk basamak iniyordu aşağı, hepsi ıslak taş, hepsi birer karış eninde. Edrin basamakları saymadan inemezdi; çocukluğundan beri öyleydi. Kırk, kırk bir, kırk iki. Elindeki kandilin fitili çatladı, alev titredi, gölge duvarda büyüdü, küçüldü. Nem, çenesiyle ensesini buluyordu. Aşağıdan bir koku geliyordu: donmuş kan, ıslak yün, demir. Demirkapı'nın en derin kokusu buydu ve Edrin bu kokuyu kışların kokusu sanarak büyümüştü.
+Yüz kırk basamak iniyordu aşağı, hepsi ıslak taş, hepsi birer karış eninde. Edrin basamakları saymadan inemezdi; çocukluğundan beri öyleydi. Kırk, kırk bir, kırk iki. Elindeki kandilin fitili çatladı, alev titredi, gölge duvarda büyüdü, küçüldü. Nem, çenesiyle ensesini buluyordu. Aşağıdan bir koku geliyordu: donmuş kan, ıslak yün, demir. Kapankaya'nın en derin kokusu buydu ve Edrin bu kokuyu kışların kokusu sanarak büyümüştü.
 
 Kırk yedinci basamak. Buzdamı'nın kapısı.
 
 Kapıyı ittirdi. Buz, menteşeleri tutmuştu; tahta bir çığlık attı, açıldı.
 
-İçerisi akşam karanlığındaki bir tarla kadar büyüktü; tavan kaya, taban toprak, duvarlar taş. Kışın karı buraya yazın bile erimiyordu; kuzey duvarında kalın bir buz tabakası vardı, insan boyu, üstünde suların akıttığı çizgiler. Tavandan demir kancalar sarkıyordu. Kırk yedi kanca. Edrin bunu da biliyordu; saymıştı, çünkü Demirkapı'da bir çocuğun yapabileceği en iyi şey saymaktı.
+İçerisi akşam karanlığındaki bir tarla kadar büyüktü; tavan kaya, taban toprak, duvarlar taş. Kışın karı buraya yazın bile erimiyordu; kuzey duvarında kalın bir buz tabakası vardı, insan boyu, üstünde suların akıttığı çizgiler. Tavandan demir kancalar sarkıyordu. Kırk yedi kanca. Edrin bunu da biliyordu; saymıştı, çünkü Kapankaya'da bir çocuğun yapabileceği en iyi şey saymaktı.
 
 Kancaların kırk altısında koyunlar vardı.
 
@@ -43,7 +43,7 @@ Bir adam vardı.
 
 ***
 
-Dört gün önce buz, Demirkol'un kıyısına bir şey bırakmıştı.
+Dört gün önce buz, Taşyatak'ın kıyısına bir şey bırakmıştı.
 
 Edrin onu duymuştu ama görmemişti; on iki yaşında olmak böyle bir şeydi, her şeyi duyuyordun, hiçbir şeye bakamıyordun. Kapı nöbetindeki askerler anlatmıştı: kıyıya vurmuş bir buz tabakası, onun içinde de bir adam. Adam donmuş, kaskatı; koşum takımı gibi bir şeye sarılı değil, kendi giysileri içinde. Buzdan çıkarmak için balta kullanmışlardı. Edrin, o gün avlunun öbür ucundan bakmıştı; iki asker, aralarında bir şey taşıyordu, ve taşıdıkları şeyin bir kolu vardı, ve kol aşağı sarkıyordu, ve kol sarkarken kırılmıyordu, çünkü donmuştu.
 
@@ -77,7 +77,7 @@ Ve yukarı çıktı. Basamaklarda ayağı kaydı, bir eliyle duvara tutundu, kü
 
 Edrin yalnız kaldı.
 
-Kandil, kolunda ağırlaşmıştı. Buzdamı'nın içinde suyun sesi vardı; ince, sabit, yerin altından geliyordu. Demirkapı'da yerin altında nehir vardı, herkes bilirdi; nehir kalenin altından geçerdi, kayaların arasından, ve kalenin kuyusu o sudan beslenirdi. Kışın buz olurdu, yazın soğuk olurdu, hiç değişmezdi.
+Kandil, kolunda ağırlaşmıştı. Buzdamı'nın içinde suyun sesi vardı; ince, sabit, yerin altından geliyordu. Kapankaya'da yerin altında nehir vardı, herkes bilirdi; nehir kalenin altından geçerdi, kayaların arasından, ve kalenin kuyusu o sudan beslenirdi. Kışın buz olurdu, yazın soğuk olurdu, hiç değişmezdi.
 
 Bugün o ses bir başka geliyordu. Edrin ayırt edemedi. Bir şeyin içinden geçiyordu su, yalnız kayanın içinden değil.
 
@@ -131,7 +131,7 @@ Halden'di.
 
 ***
 
-Ağabeyi on yedi yaşındaydı ve kışlık kürkünü giymişti; kürkün altından yeni zırhı görünüyordu; zırh Gülkıyı işiydi, halis, her halkası elle perçinlenmiş. Arkasında iki arkadaşı vardı: Bal Kalesi'nden gelmiş yeğenler, Timur ve Vasil; ikisi de Halden'den ikişer yaş küçük, ikisi de Halden'in güldüğü her şeye gülerdi.
+Ağabeyi on yedi yaşındaydı ve kışlık kürkünü giymişti; kürkün altından yeni zırhı görünüyordu; zırh Akçaliman işiydi, halis, her halkası elle perçinlenmiş. Arkasında iki arkadaşı vardı: Sarpınar'dan gelmiş yeğenler, Timur ve Vasil; ikisi de Halden'den ikişer yaş küçük, ikisi de Halden'in güldüğü her şeye gülerdi.
 
 "Kâhya seni buraya neden yolladı?" diye sordu Halden.
 
@@ -181,7 +181,7 @@ Halden arkasını döndü. "Bunu lord biliyor mu?"
 
 Sessizlik. Timur geri adım attı.
 
-"İndirin," dedi Halden. "Kıyıya gömün. Kış gelmeden gömülsün, donmadan toprak olsun. Bu adam Varyn toprağında kokmasın."
+"İndirin," dedi Halden. "Kıyıya gömün. Kış gelmeden gömülsün, donmadan toprak olsun. Bu adam Kadran toprağında kokmasın."
 
 "Yiyecek bir şeyi var mıydı?" diye sordu Edrin.
 
@@ -215,11 +215,11 @@ Hayır. Taş taştı, soğuktu. Edrin elini çekti ve çıktı.
 
 ***
 
-Avluda, gün ışırken, Demirkapı kendini kuruyordu.
+Avluda, gün ışırken, Kapankaya kendini kuruyordu.
 
-Kalenin kapısı gün doğmadan açılırdı. Kapının önünde altı atlı, iki yüzük, on üç arabalık bir kervan bekliyordu; Gülkıyı'dan geliyordu, tuz, şarap, kumaş, ve üç sandık taşıyordu: Sandıkların ikisi Sorel mühürlüydü, biri de mühürsüzdü, ve Sorel kâtibi onu kolunun altında tutuyordu.
+Kalenin kapısı gün doğmadan açılırdı. Kapının önünde altı atlı, iki yüzük, on üç arabalık bir kervan bekliyordu; Akçaliman'dan geliyordu, tuz, şarap, kumaş, ve üç sandık taşıyordu: Sandıkların ikisi Elvun mühürlüydü, biri de mühürsüzdü, ve Elvun kâtibi onu kolunun altında tutuyordu.
 
-Kapı vergisi alınıyordu. Bu, Demirkapı'nın göbeğiydi, Varyn'ların ekmeği. Her araba, her at, her sandık, tek tek yazılırdı; kâtip Kubat, kalenin kâhyası, adı yazıp üstünü çiziyor, adamlarına sayı söylüyordu. Kubat elli yaşındaydı, sıska, kamburunu çıkarmış, kürksüz; kışın kürksüz gezen tek adamdı Demirkapı'da, çünkü Der kapısında bir kez donmuştu ve donduğu günden beri kürk, ona dokunulduğunda, ölüm gibi geliyordu.
+Kapı vergisi alınıyordu. Bu, Kapankaya'nın göbeğiydi, Kadran'ların ekmeği. Her araba, her at, her sandık, tek tek yazılırdı; kâtip Kubat, kalenin kâhyası, adı yazıp üstünü çiziyor, adamlarına sayı söylüyordu. Kubat elli yaşındaydı, sıska, kamburunu çıkarmış, kürksüz; kışın kürksüz gezen tek adamdı Kapankaya'da, çünkü Der kapısında bir kez donmuştu ve donduğu günden beri kürk, ona dokunulduğunda, ölüm gibi geliyordu.
 
 Edrin avluyu geçti, kâhyayı buldu, koyunları saydığını söyledi.
 
@@ -257,7 +257,7 @@ Mutfağın kapısında Sena duruyordu.
 
 ***
 
-Sena on dört yaşındaydı, mutfakta çalışırdı, annesiyle birlikte, ve Demirkapı'nın en iyi kulaklarına sahipti; Edrin bunu bilirdi, çünkü Sena onun için dinlerdi. Şimdi elinde kepçeyle duruyordu, kapının önünde, ve Edrin'in yüzüne baktı, omzundaki koyuna baktı, sonra kimseye bir şey söylemeden yana çekildi.
+Sena on dört yaşındaydı, mutfakta çalışırdı, annesiyle birlikte, ve Kapankaya'nın en iyi kulaklarına sahipti; Edrin bunu bilirdi, çünkü Sena onun için dinlerdi. Şimdi elinde kepçeyle duruyordu, kapının önünde, ve Edrin'in yüzüne baktı, omzundaki koyuna baktı, sonra kimseye bir şey söylemeden yana çekildi.
 
 Edrin koyunu mutfağın tezgâhına bıraktı. Kadınların hiçbiri başını kaldırmadı; baş kaldırmak, görülmek demekti.
 
@@ -285,7 +285,7 @@ Sena bir şey söylemedi. Edrin'in göğsüne baktı, bir an; sonra gözlerini i
 
 Sena'nın eli, kazanın kenarında durdu. Tırnaklarının arasında hamur vardı, kurumuş. "Babam da buzun altından gelmişti," dedi. "Hatırlıyor musun?"
 
-Edrin hatırlıyordu. Sena'nın babası, Demirkol'da buz kırıcıydı; bir kış, buz kırarken ince yere basmış, suya düşmüştü; cesedi üç gün sonra, bir kayanın dibinde, buzun içinde, gözleri açık bulunmuştu. Sena sekiz yaşındaydı. Edrin ona o gün bir şey vermişti: kendi yemişini, bir tek fındık. Sena onu yemişti, ağlamadan. O günden sonra ikisi, bir şey söylemeden, bir şey olmuşlardı.
+Edrin hatırlıyordu. Sena'nın babası, Taşyatak'ta buz kırıcıydı; bir kış, buz kırarken ince yere basmış, suya düşmüştü; cesedi üç gün sonra, bir kayanın dibinde, buzun içinde, gözleri açık bulunmuştu. Sena sekiz yaşındaydı. Edrin ona o gün bir şey vermişti: kendi yemişini, bir tek fındık. Sena onu yemişti, ağlamadan. O günden sonra ikisi, bir şey söylemeden, bir şey olmuşlardı.
 
 "Babanın cebinde bir şey var mıydı?" diye sordu Edrin.
 
@@ -317,7 +317,7 @@ O buharın arkasında, Sena'nın onun yüzüne baktığını gördü. Ama emin o
 
 Kağıdı, Kuzey Kule'nin kırkıncı basamağının altına sakladı.
 
-Kuzey Kule kullanılmıyordu. Yıkılmamıştı, kullanılmıyordu; bu fark, Demirkapı'da önemliydi. Duvarları sağlamdı, merdivenleri dönüyordu, üst odalarının pencereleri yoktu. Çocuklar oraya girmezdi, çünkü çocuklar orada bir hayalet olduğuna inanırdı; yetişkinler de girmezdi, çünkü yetişkinler hayalete değil, taşa güvenirdi ve o kule, en çok taşa benzeyen yerdi.
+Kuzey Kule kullanılmıyordu. Yıkılmamıştı, kullanılmıyordu; bu fark, Kapankaya'da önemliydi. Duvarları sağlamdı, merdivenleri dönüyordu, üst odalarının pencereleri yoktu. Çocuklar oraya girmezdi, çünkü çocuklar orada bir hayalet olduğuna inanırdı; yetişkinler de girmezdi, çünkü yetişkinler hayalete değil, taşa güvenirdi ve o kule, en çok taşa benzeyen yerdi.
 
 Edrin kulenin kapısını ittirdi. Kapı gıcırdadı. Karanlıktı; kandilini yakmadı, çünkü ışık, görülmek demekti. Işıksız da yolu biliyordu. Basamakları saydı. Otuz dokuz. Kırk.
 
@@ -335,11 +335,11 @@ Kalenin koridorlarına çıktı.
 
 Annesi, mavi odanın kapısının önünde duruyordu.
 
-Mavi odaya böyle denirdi; duvarları maviydi, boyası Gülkıyı'dan gelmişti, pahalıydı, ve oda on üç yıldır beşik odasıydı. Edrin orada doğmuştu. İki kardeşi de orada doğmuştu, ikisi de aynı yıl değil, aynı odada, ve ikisi de aynı hafta içinde ölmüştü; birinin adı konmadan, birinin adı konduktan sonra. Edrin bu odanın kapısından her geçişinde, kendi doğumundan önceki ölüleri düşünürdü; bu, kimsenin ona öğretmediği bir şeydi.
+Mavi odaya böyle denirdi; duvarları maviydi, boyası Akçaliman'dan gelmişti, pahalıydı, ve oda on üç yıldır beşik odasıydı. Edrin orada doğmuştu. İki kardeşi de orada doğmuştu, ikisi de aynı yıl değil, aynı odada, ve ikisi de aynı hafta içinde ölmüştü; birinin adı konmadan, birinin adı konduktan sonra. Edrin bu odanın kapısından her geçişinde, kendi doğumundan önceki ölüleri düşünürdü; bu, kimsenin ona öğretmediği bir şeydi.
 
-Kapı açıktı. Annesi, Maren Varyn, kırk beş yaşında, saçı örgülü, kürkü omzuna düşmüş, içeride, beşiğin yanında ayakta duruyordu. Beşik boştu. Beşiğin içinde bir yastık vardı, ve yastığın üstünde katlanmış bir battaniye, ve Edrin, o battaniyeyi tanıdı; kendi battaniyesiydi, çocukken üstünde uyuduğu, kenarı kırmızı işlemeli.
+Kapı açıktı. Annesi, Maren Kadran, kırk beş yaşında, saçı örgülü, kürkü omzuna düşmüş, içeride, beşiğin yanında ayakta duruyordu. Beşik boştu. Beşiğin içinde bir yastık vardı, ve yastığın üstünde katlanmış bir battaniye, ve Edrin, o battaniyeyi tanıdı; kendi battaniyesiydi, çocukken üstünde uyuduğu, kenarı kırmızı işlemeli.
 
-Annesi, beşiğe bir şey söylüyordu. Sesi alçaktı, kelimeler seçilmiyordu, ama ezgi seçiliyordu; bir ninniydi, Demirkapı'nın ninnisi.
+Annesi, beşiğe bir şey söylüyordu. Sesi alçaktı, kelimeler seçilmiyordu, ama ezgi seçiliyordu; bir ninniydi, Kapankaya'nın ninnisi.
 
 "Uyu, uyu, kış geliyor,
 kar kapıyı örtmeden,
@@ -386,9 +386,9 @@ Edrin koridoru yürüdü. Bir şey yapmadı. Yürüdü; o gün, o saatte, yapabi
 
 Akşam, babasının odasına çağrıldı.
 
-Demirkapı'nın lordu, yüksek katta, güneye bakan odada yatıyordu. Oda sıcaktı; Demirkapı'nın en sıcak odasıydı, çünkü ocak duvara gömülüydü ve Kubat, odunun en iyisini oraya ayırırdı. Ama sıcaklık, kokuşmuşluk yapıyordu; odada sirke, eski ter, ve demir kokusu vardı; ilaç kokusu ve arkasında bir şey daha, tatlı, çürümüş, kapanmış bir yara.
+Kapankaya'nın lordu, yüksek katta, güneye bakan odada yatıyordu. Oda sıcaktı; Kapankaya'nın en sıcak odasıydı, çünkü ocak duvara gömülüydü ve Kubat, odunun en iyisini oraya ayırırdı. Ama sıcaklık, kokuşmuşluk yapıyordu; odada sirke, eski ter, ve demir kokusu vardı; ilaç kokusu ve arkasında bir şey daha, tatlı, çürümüş, kapanmış bir yara.
 
-Torvald Varyn, yetmiş iki yaşında, yatağın içinde, baş tarafı yüksek yatıyordu. Sol yanı ölüydü; sol kolu yorganın üstünde duruyordu, el avuç içi yukarı dönük, parmaklar hafif kıvrık, ve o kol, lordun kendi kolu değildi artık; odanın eşyasıydı, bir örtü gibi üzerine konmuş. Sağ eli, hâlâ canlıydı; o el, sürekli hareket ediyordu; yorganın püskülünü çeviriyor, göğsüne koyuyor, çekiyor, çeviriyordu.
+Torvald Kadran, yetmiş iki yaşında, yatağın içinde, baş tarafı yüksek yatıyordu. Sol yanı ölüydü; sol kolu yorganın üstünde duruyordu, el avuç içi yukarı dönük, parmaklar hafif kıvrık, ve o kol, lordun kendi kolu değildi artık; odanın eşyasıydı, bir örtü gibi üzerine konmuş. Sağ eli, hâlâ canlıydı; o el, sürekli hareket ediyordu; yorganın püskülünü çeviriyor, göğsüne koyuyor, çekiyor, çeviriyordu.
 
 Edrin, elinde kâhyanın verdiği merhem tasıyla içeri girdi. Kadın, ateşin başında, arkası dönük, bez kaynatıyordu; başını çevirmedi.
 
@@ -400,7 +400,7 @@ Edrin yaklaştı. Merhemi, yatağın yanındaki masaya koydu. Babasının çenes
 
 "Buz ne durumda?" dedi Torvald.
 
-Edrin bir an durdu. "Donuyor, lordum. Demirkol kapandı. Kartalkol'da buz tuttu, dediler."
+Edrin bir an durdu. "Donuyor, lordum. Taşyatak kapandı. Gümüşçat'ta buz tuttu, dediler."
 
 Torvald'ın sağ eli, yorganın püskülünü bıraktı. "Erken," dedi. "Çok erken."
 
@@ -408,7 +408,7 @@ Bir süre ikisi de sustu. Ocaktaki odun çatırdadı; köz, bir an aydınlandı,
 
 "Kapıda kim var?" dedi Torvald.
 
-"Gülkıyı'dan bir kervan, lordum. Tuz, şarap. Vergi alınıyor."
+"Akçaliman'dan bir kervan, lordum. Tuz, şarap. Vergi alınıyor."
 
 Torvald başını çevirdi.
 
@@ -426,7 +426,7 @@ Ocaktaki ateş, o addan sonra, bir an sustu gibi geldi Edrin'e; sonra çıtırda
 
 Edrin bir şey söylemedi. Merhemi bıraktığı yerde bıraktı, geri geri gitti, kapıyı açtı, kapattı. Kapının dışında, koridorda, elleri titriyordu. Korkudan değil.
 
-Edvin, Varyn hanesinin ölü amcasıydı. Edrin'in adı ondan geliyordu; annesi bunu bir kez söylemişti, sonra bir daha söylememişti. Demirkapı'da ölü amcanın adı, mezarlıkta bir taşın üstünde yazılıydı; Edrin o taşı görmüştü, taşın üstündeki harfleri parmağıyla okumuştu, o taşın altında kim olduğunu bilmeden.
+Edvin, Kadran hanesinin ölü amcasıydı. Edrin'in adı ondan geliyordu; annesi bunu bir kez söylemişti, sonra bir daha söylememişti. Kapankaya'da ölü amcanın adı, mezarlıkta bir taşın üstünde yazılıydı; Edrin o taşı görmüştü, taşın üstündeki harfleri parmağıyla okumuştu, o taşın altında kim olduğunu bilmeden.
 
 Babası, onu, ölü kardeşinin adıyla çağırmıştı.
 
@@ -452,7 +452,7 @@ Kuyu, avlunun ortasındaydı; ağzı taş bilezikli, üstünde tahta kapak. Edri
 
 Kovayı kaldırdı, içti.
 
-Su tatlıydı. Demirkapı'nın suyu her zaman tatlı olurdu, kireçsiz, soğuk, nehir suyu; ama bu gece, dilinin arkasında, bir acı kaldı. Acı badem. Edrin kovayı indirdi, ağzını sildi, bekledi. Bir yudum daha aldı. Aynı.
+Su tatlıydı. Kapankaya'nın suyu her zaman tatlı olurdu, kireçsiz, soğuk, nehir suyu; ama bu gece, dilinin arkasında, bir acı kaldı. Acı badem. Edrin kovayı indirdi, ağzını sildi, bekledi. Bir yudum daha aldı. Aynı.
 
 Suya baktı. Karanlıkta, suyun yüzeyi, kovanın içinde, bir ayna gibi görünmüyordu; bir kapı gibi görünüyordu. Edrin kovayı taşın üstüne koydu. Sonra, avluda, kuyunun duvarına doğru eğildi ve kulağını taşa dayadı.
 
@@ -520,7 +520,7 @@ Edrin odasına döndü. Yorganın altına girdi. Sıcak taşı göğsünün üst
 
 Kışın ilk gününe beş gün vardı.
 
-Ve Demirkapı'nın altında, taşın içinde, bir şey nefes alıyordu.
+Ve Kapankaya'nın altında, taşın içinde, bir şey nefes alıyordu.
 
 ---
 
@@ -530,6 +530,6 @@ Ve Demirkapı'nın altında, taşın içinde, bir şey nefes alıyordu.
 
 - **Kapanan sırlar:** Buzdamındaki adamın dışarıdan geldiği ve bir koyun sayısı karmaşasının (47/46) arkasında yattığı anlaşıldı; kağıdın bir arayışa konu olduğu doğrulandı.
 
-- **Ekilen tohumlar:** Ceset Karn mavisi giyiyor; cesedi arayan biri kalenin içinden. Kırkıncı basamak. Kuyunun altından gelen nefes ile önsözdeki "Kulak" sahnesi. Halden'in yeni kılıcı ve adı henüz söylenmedi. Sena'nın babasının cesedi. Annesinin "adını bul" emri. Kepçe'nin "ben koyun bakarım" suskunluğu. Kâhya Kubat'ın defterinde üç kez üstünden geçtiği okunamayan kelime.
+- **Ekilen tohumlar:** Ceset Urdran mavisi giyiyor; cesedi arayan biri kalenin içinden. Kırkıncı basamak. Kuyunun altından gelen nefes ile önsözdeki "Kulak" sahnesi. Halden'in yeni kılıcı ve adı henüz söylenmedi. Sena'nın babasının cesedi. Annesinin "adını bul" emri. Kepçe'nin "ben koyun bakarım" suskunluğu. Kâhya Kubat'ın defterinde üç kez üstünden geçtiği okunamayan kelime.
 
 - **Karakter durumları:** Edrin — kâğıdı buldu, sakladı; korkuyor ama merakı korkusundan büyük. Sena — Edrin'in bir şey sakladığını sezdi; beklemesini biliyor. Halden — cesedi gömme emri verdi, ağabeylik maskesi altında öfke ve kırılganlık. Maren — beşik odasında, oğluna bakmıyor. Torvald — ölü kardeşinin adını çağırdı; sır onda. Kubat — bir şey biliyor ya da bir şeyden şüpheleniyor.

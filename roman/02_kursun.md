@@ -15,7 +15,7 @@ Sena battaniyeyi üzerinden çekti. Soğuk, göğsüne, bacaklarına, her yerine
 
 Servis salonu, taş duvarların arasında bir kuyuydu; sabahki kokusu, dünden kalan soğan, tuzlu balık ve yün olurdu. Kadınlar, peş peşe kalktı; biri öksürdü, biri küfretti, biri, en yaşlısı, keçi derisinden bir yelek giydi ve hiçbir şey söylemedi. On bir kadın, on bir tane hayat, hepsi aynı kokuyu taşıyordu.
 
-Sena kapıyı açtı. Dışarıda hava, ağzına bir yumruk gibi girdi; Demirkapı'da sabah böyle başlardı, bir yumrukla.
+Sena kapıyı açtı. Dışarıda hava, ağzına bir yumruk gibi girdi; Kapankaya'da sabah böyle başlardı, bir yumrukla.
 
 Avlu, buzun altında maviydi. Taşların üstünde ince bir örtü vardı; ayak basınca kırılıyor, kırılınca sesi taş gibi çıkıyordu. Sena, sırayı bilirdi. Önce kuyu, sonra kazan, sonra ekmek. Suyu, kadınlar taşırdı; kırk kadından yirmi biri, sabah, ikişer kova; yüz kırk basamak; yukarıdan aşağıya. Sena'nın kolları, on dört yaşında, ipekten değildi; ip gibiydi, inceydi, ve yirmi okka taşıyabilirdi.
 
@@ -55,7 +55,7 @@ Aybike, tezgâhta, hamuru yoğuruyordu; bilekleri kalın, parmakları kalın, t�
 
 "Otur," dedi Aybike. "Ye."
 
-Sena bir dilim ekmek aldı, üstüne tuz serpti. Tuz, Gülkıyı tuzuydu; gri, iri, ıslak. Sena tuzu her zaman önce koklardı. Denizin kokusu, bir günde gelip geçen bir misafirin kokusuydu; Demirkapı'da kimse denizi görmemişti, ama herkes tuzu tanırdı.
+Sena bir dilim ekmek aldı, üstüne tuz serpti. Tuz, Akçaliman tuzuydu; gri, iri, ıslak. Sena tuzu her zaman önce koklardı. Denizin kokusu, bir günde gelip geçen bir misafirin kokusuydu; Kapankaya'da kimse denizi görmemişti, ama herkes tuzu tanırdı.
 
 "Bugün kapıya gideceksin," dedi Aybike.
 
@@ -93,7 +93,7 @@ Sena'nın babası, onun hatırasında, iki şeydi: bir koku ve bir ses. Koku, ı
 
 Kapıya çıkmadan önce, iki kova su taşıdı.
 
-Kuyudan mutfağa, yüz kırk basamak. Sena, kovaları, iki eline ikişer ikişer asardı; kolları düz, sırtı öne eğik, adımları kısa. Basamaklar ıslaktı; Demirkapı'da basamaklar her zaman ıslaktı; su, kovadan taşardı, taşan su, taşın üstünde kalırdı, ve taş, suyu tutardı, çünkü taş, kışın suyu sever gibiydi.
+Kuyudan mutfağa, yüz kırk basamak. Sena, kovaları, iki eline ikişer ikişer asardı; kolları düz, sırtı öne eğik, adımları kısa. Basamaklar ıslaktı; Kapankaya'da basamaklar her zaman ıslaktı; su, kovadan taşardı, taşan su, taşın üstünde kalırdı, ve taş, suyu tutardı, çünkü taş, kışın suyu sever gibiydi.
 
 Sekseninci basamakta ayak sesleri geldi.
 
@@ -107,9 +107,9 @@ Halden önden indi; arkasında Timur ile Vasil. Üçü de konuşuyordu, ve üç�
 
 "Ne?"
 
-"Hiçbir şey." Halden iki basamak daha indi, sonra durdu. "Kâhya, Kırkkule'den bir ulak gelecek dedi."
+"Hiçbir şey." Halden iki basamak daha indi, sonra durdu. "Kâhya, Kırkburç'tan bir ulak gelecek dedi."
 
-"Aldric Karn mı ulak yollayacak?" dedi Vasil, sesini düşürerek.
+"Aldric Urdran mı ulak yollayacak?" dedi Vasil, sesini düşürerek.
 
 "Babam kabul etti."
 
@@ -163,21 +163,21 @@ Kapıya gitmek için, kaleden çıkmak gerekiyordu. Sena sevindi. Kale, duvarlar
 
 ***
 
-Demirkapı'nın kapısı, dünyanın en basit işini yapıyordu: kapatıyordu.
+Kapankaya'nın kapısı, dünyanın en basit işini yapıyordu: kapatıyordu.
 
-Geçidin iki yanı dağdı; dağın ortasında, bir çatlak vardı; çatlağın içine, insanlar, taştan bir kapı yapmışlardı. Kapı iki kanatlıydı, meşe, kalın; demir çubuklarla pekiştirilmişti, ve üstünde, taşın içine oyulmuş, kırık bir dağ geçidi ile ortasında bir kule vardı. Varyn arması. Kapının altından, kuzeye ve güneye, bir yol gidiyordu; yol, kışın bir ay boyunca işlerdi, sonra kar, geçidi yutardı.
+Geçidin iki yanı dağdı; dağın ortasında, bir çatlak vardı; çatlağın içine, insanlar, taştan bir kapı yapmışlardı. Kapı iki kanatlıydı, meşe, kalın; demir çubuklarla pekiştirilmişti, ve üstünde, taşın içine oyulmuş, kırık bir dağ geçidi ile ortasında bir kule vardı. Kadran arması. Kapının altından, kuzeye ve güneye, bir yol gidiyordu; yol, kışın bir ay boyunca işlerdi, sonra kar, geçidi yutardı.
 
 Kapının önünde bir taş vardı: vergi taşı. Üstünde, her arabanın, her atın, her sandığın sayısı tebeşirle yazılırdı; akşam, Kubat'ın çırağı gelir, sayıları deftere geçirir, taşı yağmur için silerdi.
 
 Sena, kapıya vardığında, kervan hâlâ oradaydı.
 
-Altı atlı, on üç araba. Atların başlarında, kürklü iki adam; arabaların çevresinde, kırk kadar yükçü; ve kapının yanında, üç sandık. Sandıkların ikisi mühürlüydü; mühür, kırmızı balmumu, gül arması. Üçüncüsü mühürsüzdü; üstünde bez vardı, bezin üstünde bir ip, ipin ucunda kurşun bir mühür sarkıyordu. Kurşun. Demirkapı'da kimse kurşun mühür kullanmazdı; tunç kullanılırdı, gümüş kullanılırdı. Kurşunu, bataklık kullanırdı.
+Altı atlı, on üç araba. Atların başlarında, kürklü iki adam; arabaların çevresinde, kırk kadar yükçü; ve kapının yanında, üç sandık. Sandıkların ikisi mühürlüydü; mühür, kırmızı balmumu, altın anahtar arması. Üçüncüsü mühürsüzdü; üstünde bez vardı, bezin üstünde bir ip, ipin ucunda kurşun bir mühür sarkıyordu. Kurşun. Kapankaya'da kimse kurşun mühür kullanmazdı; tunç kullanılırdı, gümüş kullanılırdı. Kurşunu, bataklık kullanırdı.
 
 Sena, ekmek sepetini kolunda taşıyarak, vergi taşının yanından geçti. Nöbetçi, onu gördü, başını salladı; Sena, sepeti nöbetçi kulübesinin yanına bıraktı.
 
 Sonra sesleri duydu.
 
-Kapının sağ tarafındaki taş çıkıntının arkasında, iki adam konuşuyordu. Biri Sorel kâtibiydi; Sena onu dün görmüştü, ince, esmer, mürekkep lekeli parmaklı, adı Vartan'dı. Diğeri, Sena'nın tanımadığı bir adamdı: çullu bir pelerin giymişti, başında keçe bir külah vardı, ve elleri önünde kenetlenmişti. Kenetlenmiş ellerde, sağ elin orta parmağında, kurşun bir yüzük vardı.
+Kapının sağ tarafındaki taş çıkıntının arkasında, iki adam konuşuyordu. Biri Elvun kâtibiydi; Sena onu dün görmüştü, ince, esmer, mürekkep lekeli parmaklı, adı Vartan'dı. Diğeri, Sena'nın tanımadığı bir adamdı: çullu bir pelerin giymişti, başında keçe bir külah vardı, ve elleri önünde kenetlenmişti. Kenetlenmiş ellerde, sağ elin orta parmağında, kurşun bir yüzük vardı.
 
 Kurşun yüzük.
 
@@ -201,7 +201,7 @@ Kâğıt.
 
 Küllahlı adam başını salladı; yavaş, ağır, bir şeyi onaylar gibi değil, bir şeyi kaydeder gibi. Sonra elini kaldırdı ve Vartan'ın omzuna koydu.
 
-"Vartan," dedi. "Sen gül satıyorsun. Ben bataklıktan geliyorum. Bataklıkta gül yetişmez." Eline bir şey aldı; Sena görmedi; Vartan'ın cebine koydu. "Kimse görmez. Ama kimse unutmaz da."
+"Vartan," dedi. "Sen anahtar satıyorsun. Ben sazdan geliyorum. Sazda anahtar yetişmez. Ama sazda kilit çok." Eline bir şey aldı; Sena görmedi; Vartan'ın cebine koydu. "Kimse görmez. Ama kimse unutmaz da."
 
 Sonra döndü.
 
@@ -397,16 +397,16 @@ Kuyunun suyu, o gece, donmuştu. Damıtılmış gibi, berrak, ve Sena'nın kovas
 
 Ama suyun donduğu yer, kovanın yarısıydı; üst yarısı, buz; alt yarısı, sıvı. Ve alt yarısı, sıcaktı. Sena, parmağını soktuğunda, su, bir çay gibi geldi eline.
 
-Çok yıllar sonra, Demirkapı'nın altındaki şeyi anlatanlar, hep aynı cümleyle başlayacaktı: o kış, kuyunun yarısı dondu, yarısı donmadı. Kimse inanmayacaktı.
+Çok yıllar sonra, Kapankaya'nın altındaki şeyi anlatanlar, hep aynı cümleyle başlayacaktı: o kış, kuyunun yarısı dondu, yarısı donmadı. Kimse inanmayacaktı.
 
 ---
 
 **Bölüm Notları**
 
-- **Açılan sırlar:** Kâğıdı arayan biri var: çullu, kurşun yüzüklü, Tuzbataklığı'ndan bir adam; Kapıaltı'da Sorel kâtibi Vartan'a sordu, kâtip "kimse görmedi" diyerek yalan söyledi ve rüşvet aldı. Sena kurşun bir mühür topağı buldu ve sakladı. Çakır Dede, kırk yıl önceki gecede bulunmuş: "Yedi halka, yedinci halka çizilmiş", "yedi isim saydılar", "Edvin'in cebinde yeşil cam vardı", "kâğıt geldiyse kapı sayılmıştır", "kulak açık".
+- **Açılan sırlar:** Kâğıdı arayan biri var: çullu, kurşun yüzüklü, Tuzsaz'dan bir adam; Kapıaltı'da Elvun kâtibi Vartan'a sordu, kâtip "kimse görmedi" diyerek yalan söyledi ve rüşvet aldı. Sena kurşun bir mühür topağı buldu ve sakladı. Çakır Dede, kırk yıl önceki gecede bulunmuş: "Yedi halka, yedinci halka çizilmiş", "yedi isim saydılar", "Edvin'in cebinde yeşil cam vardı", "kâğıt geldiyse kapı sayılmıştır", "kulak açık".
 
 - **Kapanan sırlar:** Sena, Edrin'in bir şey sakladığını artık kesin biliyor; Edrin de bunu biliyor. Kırk yıl önceki gecede yedi isim bulunduğu ve aralarında Çakır'ın da olduğu doğrulandı.
 
-- **Ekilen tohumlar:** Sena'nın dokuz yıllık borcu (Kubat'ın defteri). Kuyunun taşında bir el büyüklüğünde leke. Yarısı donan, yarısı sıcak kalan kuyu suyu. Kuyunun yosununun uzaması. "Acı badem" tadı (önsözdeki zehirle bağ). Çakır'ın "oğlum" dediği Sena'nın babası ve buzun "kapı" oluşu. Vartan'ın aldığı rüşvet. Ulu adlı köpeğin kafasını taşa vurması. Edrin'in "yarın bakacağım" sözü. Kubat'ın defteri. Kurşun mühürdeki yılan ve üç dal (Ferro arması).
+- **Ekilen tohumlar:** Sena'nın dokuz yıllık borcu (Kubat'ın defteri). Kuyunun taşında bir el büyüklüğünde leke. Yarısı donan, yarısı sıcak kalan kuyu suyu. Kuyunun yosununun uzaması. "Acı badem" tadı (önsözdeki zehirle bağ). Çakır'ın "oğlum" dediği Sena'nın babası ve buzun "kapı" oluşu. Vartan'ın aldığı rüşvet. Ulu adlı köpeğin kafasını taşa vurması. Edrin'in "yarın bakacağım" sözü. Kubat'ın defteri. Kurşun mühürdeki yılan ve üç dal (Melvan arması).
 
 - **Karakter durumları:** Sena — ilk kez kalenin dışındaki oyuna değdi, elinde bir kanıt var, Edrin'e bağlılığı derinleşti ama sınıf farkının bedelini görüyor. Edrin — kâğıdı okumaya karar verdi; korkusu merakına yenildi. Çakır Dede — hafızası çoğunlukla gitmiş, ama parçalar hâlâ yerinde; yaşayan tanık. Aybike — kızını korumak için susturuyor. Kubat — görünmüyor ama defteri, kalemi ve sayıları her yerde.

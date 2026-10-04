@@ -1,15 +1,15 @@
 # ÖNSÖZ
 ## BUZUN ALTINDA
 
-**Bakış açısı: Edvin Varyn — kırk yıl önce, kışın on üçüncü günü**
+**Bakış açısı: Edvin Kadran — kırk yıl önce, kışın on üçüncü günü**
 
 O yıl nehir erken dondu.
 
-Kışın on üçüncü günüydü. Yedi kolun altısı buz tutmuştu: Kartalkol, Demirkol, Gülkol, Zehirkol, Kırıkkol ve Ortakol'un yukarı kısmı. Atlılar Demirkol'un üstünden geçiyordu, nal sesleri buzun içinde boğuluyordu. Kıyı köylerinde kadınlar buzun üstüne odun yığıp yakıyordu. Çocuklar ateşin çevresinde dönüyor, ayakları kayıyor, düşüyor, gülüyordu. Herkes seviniyordu. Erken kış, kısa kış demekti; böyle derdi kocakarılar. Kısa kış, dolu ambar demekti.
+Kışın on üçüncü günüydü. Yedi kolun altısı buz tutmuştu: Gümüşçat, Taşyatak, Akçasu, Acısu, Kemiksu ve Delisu'nun yukarı kısmı. Atlılar Taşyatak'ın üstünden geçiyordu, nal sesleri buzun içinde boğuluyordu. Kıyı köylerinde kadınlar buzun üstüne odun yığıp yakıyordu. Çocuklar ateşin çevresinde dönüyor, ayakları kayıyor, düşüyor, gülüyordu. Herkes seviniyordu. Erken kış, kısa kış demekti; böyle derdi kocakarılar. Kısa kış, dolu ambar demekti.
 
 Yalnız bir yerde buz tutmamıştı.
 
-Ortakol, Gülkıyı'ya doğru kıvrılmadan önce bir çukur kazırdı kendine. Su orada döner, döner, kendi içine akar, dibini göstermezdi. Nehir halkı oraya **Kulak** derdi. Kulak'ta su, kara bir göz gibi açıktı. Soğuk, suyun yüzünden buhar kaldırıyordu; sabahın donunda bile. İnce bir duman, bir nefes gibi, durmadan.
+Delisu, Akçaliman'a doğru kıvrılmadan önce bir çukur kazırdı kendine. Su orada döner, döner, kendi içine akar, dibini göstermezdi. Nehir halkı oraya **Kulak** derdi. Kulak'ta su, kara bir göz gibi açıktı. Soğuk, suyun yüzünden buhar kaldırıyordu; sabahın donunda bile. İnce bir duman, bir nefes gibi, durmadan.
 
 Üç gün önce ağ atmaya inen kayıkçı, iki gün kıyıda titremişti. Dudakları morarmış, elleri göğsüne yapışmış. Kimse ona dokunamamıştı; dokunanın eli buz kesiyordu, derdi köylüler. Üçüncü gün konuştu. Tek bir şey söyledi.
 
@@ -17,7 +17,7 @@ Ortakol, Gülkıyı'ya doğru kıvrılmadan önce bir çukur kazırdı kendine. 
 
 Sonra öldü.
 
-Edvin Varyn bunu duyduğu gece, kardeşiyle birlikte Demirkapı'dan yola çıktı.
+Edvin Kadran bunu duyduğu gece, kardeşiyle birlikte Kapankaya'dan yola çıktı.
 
 ***
 
@@ -145,7 +145,7 @@ Torvald'ın eli, kardeşinin omzunda, bir taş gibi ağırlaştı. "Yemin et."
 
 Buzun üstüne çıktıklarında Edvin'in elleri çalışmıyordu. Adamlar onu battaniyeye sardı, ateşin yanına oturttu. Ateş, buzun üstünde yanıyordu; buz, ateşin altında eriyordu; su birikiyordu; ayaklar ıslanıyordu. Kimse konuşmuyordu.
 
-Torvald, Çakır'ın yanına gitti. Uzun uzun bir şey anlattı; Edvin duymadı. Sonra kardeşi döndü, atına bindi ve adamlara tek kelime söyledi: "Kartal'a." Kırkkule'ye.
+Torvald, Çakır'ın yanına gitti. Uzun uzun bir şey anlattı; Edvin duymadı. Sonra kardeşi döndü, atına bindi ve adamlara tek kelime söyledi: "Kartal'a." Kırkburç'a.
 
 Edvin, atına bindirilirken gözü karşı kıyıya kaydı.
 
@@ -167,9 +167,9 @@ Edvin camı avucunda tuttu. Kırk yıl boyunca tuttu.
 
 ***
 
-Kırkkule'de o gece bir anlaşma yapıldı. Buna sonradan "Yedinci Mühür" dediler; ama hiç kimse yedi mühür görmedi, çünkü mühürler suyun altındaydı ve sözler buzun üstünde söylendi.
+Kırkburç'ta o gece bir anlaşma yapıldı. Buna sonradan "Yedinci Mühür" dediler; ama hiç kimse yedi mühür görmedi, çünkü mühürler suyun altındaydı ve sözler buzun üstünde söylendi.
 
-Yedi isim okundu. Yedi isim taşa yazılmadı; yalnız söylendi. Torvald Varyn. Edvin Varyn. Kral Osric Karn. Kardeşi Ser Wilan Karn. Taşçı Usta Vel. Ağcı Çakır. Ve nehir rahibi Oris.
+Yedi isim okundu. Yedi isim taşa yazılmadı; yalnız söylendi. Torvald Kadran. Edvin Kadran. Kral Osric Urdran. Kardeşi Ser Wilan Urdran. Taşçı Usta Vel. Ağcı Çakır. Ve nehir rahibi Oris.
 
 Sonra Kral Osric, o kırk yıl boyunca Kartal Tahtı'nda oturan adam, şu sözleri söyledi:
 
@@ -179,15 +179,15 @@ Torvald, "Ya açılırsa?" diye sordu.
 
 Kral cevap vermedi. Ser Wilan cevap verdi. "O zaman," dedi soğuk bir sesle, "kartal da, dağ da, nehir de, hepimiz o ağzın içinde oluruz. Ve kimse hatırlamaz."
 
-O gece, Kırkkule'nin yüksek salonunda, iki hane bir söz verdi. Bir daha bu işten konuşulmayacaktı. Nehrin altındaki şey, nehrin altında kalacaktı. Resmî tarih, ihtiyaç doğduğunda yazılacaktı; kış, sır, ve buz, kendi işlerini görecekti.
+O gece, Kırkburç'un yüksek salonunda, iki hane bir söz verdi. Bir daha bu işten konuşulmayacaktı. Nehrin altındaki şey, nehrin altında kalacaktı. Resmî tarih, ihtiyaç doğduğunda yazılacaktı; kış, sır, ve buz, kendi işlerini görecekti.
 
-Edvin Varyn söz verdi.
+Edvin Kadran söz verdi.
 
 Sonra, kırk yıl boyunca hiç kimseye anlatmadığı o şeyi, o gece yaptı. Kimse görmeden, avluya indi; ahırın arkasındaki kar yığınının dibine çömeldi; ve cebindeki yeşil camı çıkardı.
 
 Camı avucuna koydu. Ay ışığında yeşil, su gibi parlıyordu. Edvin onu nerede aldığını hatırlamıyordu. Karşı kıyıda gördüğü ışığı hatırlıyordu; ışığın yürüdüğünü, söndüğünü hatırlıyordu; kendi cebine elini soktuğunu hatırlamıyordu. Bir adamın cebine, görmediği bir el de koyabilirdi. Bir adamın cebine, kendi eli de koyabilirdi; Edvin ikisini ayırt edemiyordu, ve ayırt edememek, bilmemekten daha kötüydü.
 
-Camın içinde tortu vardı. Edvin tortunun kokusunu aldı: acı badem. Tuzbataklığı'nda yetişen bir otun özü olurdu bu; rahipler zehir derdi, tüccarlar ilaç derdi, ve fark, kimin elinde olduğuna göre değişirdi. Tuzbataklığı, Zehirkol'un dibinde, bataklığın üstünde, ahşap bir kalede otururdu. Kimse oraya gitmezdi. Kimse oradan birinin gelmesini de istemezdi.
+Camın içinde tortu vardı. Edvin tortunun kokusunu aldı: acı badem. Tuzsaz'da yetişen bir otun özü olurdu bu; rahipler zehir derdi, tüccarlar ilaç derdi, ve fark, kimin elinde olduğuna göre değişirdi. Tuzsaz, Acısu'nun dibinde, bataklığın üstünde, ahşap bir kalede otururdu. Kimse oraya gitmezdi. Kimse oradan birinin gelmesini de istemezdi.
 
 Ama biri, bu gece, karşı kıyıdaydı.
 
@@ -197,15 +197,15 @@ Gömmedi.
 
 Camı cebine geri koydu. Neden gömmediğini bilmiyordu. Belki bir kanıt, bir yara gibiydi; taşımazsan kapanmazdı. Belki de bilmiyordu, ve bilmemek, insanın bir şeyi elinde tutmasına engel değildi.
 
-Ahırdan bir at kişnedi. Edvin doğruldu, ellerini karın içinde temizledi, kaleye döndü. Yol boyunca, Kırkkule'nin kırk kulesinden on tanesi ay ışığında duruyordu; otuzu yıkıktı; yıkıkların arasındaki boşluklardan rüzgâr geçiyor, kaval gibi ses çıkarıyordu. Edvin o sesi dinleyerek yürüdü.
+Ahırdan bir at kişnedi. Edvin doğruldu, ellerini karın içinde temizledi, kaleye döndü. Yol boyunca, Kırkburç'un burçlarından on tanesi ay ışığında duruyordu; otuzu yıkıktı; yıkıkların arasındaki boşluklardan rüzgâr geçiyor, kaval gibi ses çıkarıyordu. Edvin o sesi dinleyerek yürüdü.
 
-Kapının önünde, elinde fenerle, Ser Wilan Karn duruyordu.
+Kapının önünde, elinde fenerle, Ser Wilan Urdran duruyordu.
 
 Kralın kardeşi, gecelik gömleğinin üstüne yalnız bir kürk almış, kılıç takmamıştı; ama Edvin onu görünce sağ elini kemerine attı, sonra çekti. Wilan bunu gördü. Yüzünde hiçbir şey olmadı; Wilan'ın yüzü, bir taş ustasının duvarı gibiydi, düz ve pürüzsüz. Bir şey söylemedi. Yalnız, Edvin yanından geçerken, feneri bir karış kaldırdı ve ışığı, kısa bir an, Edvin'in ceketinin göğsüne düşürdü.
 
 Sonra indirdi.
 
-"İyi geceler, Varyn," dedi.
+"İyi geceler, Kadran," dedi.
 
 "İyi geceler, lordum."
 
@@ -221,29 +221,29 @@ Haklıydı. Ama ikisi de bunu, yıllar sonra, başka bir şey söylerken hatırl
 
 Dönüş yolu iki gün sürdü.
 
-Buz, yük arabalarını taşıyordu; Kartalkol'un üstünde, yer yer, buz cam gibi şeffaftı ve altından nehrin yatağı görünüyordu; taşlar, batık bir kütük, bir yerlerde kalmış bir ağın gölgesi. Atlar ürküyordu. Edvin, atın yelesine yapışmış, altındaki şeffaf buzun yüzeyinde kendisinin ters bir hayalet gibi yürüdüğünü görüyordu.
+Buz, yük arabalarını taşıyordu; Gümüşçat'ın üstünde, yer yer, buz cam gibi şeffaftı ve altından nehrin yatağı görünüyordu; taşlar, batık bir kütük, bir yerlerde kalmış bir ağın gölgesi. Atlar ürküyordu. Edvin, atın yelesine yapışmış, altındaki şeffaf buzun yüzeyinde kendisinin ters bir hayalet gibi yürüdüğünü görüyordu.
 
 İkinci gün, öğle vakti, Torvald atını Edvin'in yanına sürdü.
 
-"Ferro'ya haber salalım mı?" dedi.
+"Melvan'a haber salalım mı?" dedi.
 
 Edvin, kardeşinin yüzüne baktı. "Neden?"
 
 "Bataklık, nehrin aşağısında," dedi Torvald. "Su aşağı iner. Bir kapı varsa, bir gün o kapıdan bir şey girer ya da çıkar; ve o şeyin ilk gördüğü yer bataklıktır."
 
-"Ferro'nun ne işi olur?"
+"Melvan'ın ne işi olur?"
 
-"Ferro'nun her işi olur," dedi Torvald. "Kimse görmez, derler. Görmediği şeyi satar."
+"Melvan'ın her işi olur," dedi Torvald. "Kimse görmez, derler. Görmediği şeyi satar."
 
 Edvin uzun uzun sustu. Karşı kıyıdaki yeşil ışığı düşündü; cebindeki camı düşündü; "kimse görmez" sözünü düşündü. Sonra başını salladı.
 
-"Hayır," dedi. "Ferro'ya söylersek, bir gün o sırrı satar. Biz de zaten bir şey bilmiyoruz. Bildiğimizi sanıyoruz."
+"Hayır," dedi. "Melvan'a söylersek, bir gün o sırrı satar. Biz de zaten bir şey bilmiyoruz. Bildiğimizi sanıyoruz."
 
 Torvald bir süre ona baktı. Sonra güldü; gülüşü, buzun üstünde, çok uzaklara kadar gitti.
 
 "Seni aptal," dedi.
 
-Ama haklıydı. İkisi de bunu biliyordu. Ve Torvald, kırk yıl boyunca, kardeşinin o gün söylediği şeyi aklında tuttu; Ferro'ya söylemediler. Kırk yıl sonra, bir mektup Tuzbataklığı'ndan çıkıp kuzeye yürüdüğünde, Torvald o günü hatırlayacaktı; hatırlamak, insanın elinden bir şey gelmediği zamanlarda yapılabilecek en acı işti.
+Ama haklıydı. İkisi de bunu biliyordu. Ve Torvald, kırk yıl boyunca, kardeşinin o gün söylediği şeyi aklında tuttu; Melvan'a söylemediler. Kırk yıl sonra, bir mektup Tuzsaz'dan çıkıp kuzeye yürüdüğünde, Torvald o günü hatırlayacaktı; hatırlamak, insanın elinden bir şey gelmediği zamanlarda yapılabilecek en acı işti.
 
 ***
 

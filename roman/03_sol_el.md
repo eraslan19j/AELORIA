@@ -1,7 +1,7 @@
 # BÖLÜM 3
 ## SOL EL
 
-**Bakış açısı: Lord Torvald Varyn — kışın ilk gününden dört gece önce**
+**Bakış açısı: Lord Torvald Kadran — kışın ilk gününden dört gece önce**
 
 Gece, Torvald'ı sol elinden uyandırdı.
 
@@ -13,7 +13,7 @@ Bu gece de öyle yaptı. Kanı, mumun ışığında gördü; kendi kanı, kendi 
 
 Dadı Gülizar, ocağın yanındaki alçak iskemlede uyuyordu; altmış yaşında, omuzları çökmüş, saçı tamamen ağarmış bir kadın. Torvald, onun uyanmasını bekledi. Uyanmadı. Torvald bir daha seslendi; kendi sesini duymadı; gırtlağından çıkan şey, bir hırıltıydı.
 
-Sabır. Torvald Varyn, yetmiş iki yılı, sabretmekle geçirmişti.
+Sabır. Torvald Kadran, yetmiş iki yılı, sabretmekle geçirmişti.
 
 Dadı, nihayet uyandı; yaşlı kadınlar hafif uyur, ve hafif uyanır, ama uyandıklarında, dünyaya dönmeleri biraz zaman alır. Dadı, iskemlesinden kalktı, kemikleri birer birer yerine oturdu; Torvald, o sesleri duydu; kendi kemiklerinin sesini değil, başkasının kemiklerinin sesini duymak, insana yaşlılığını, bir başkasının bedeninden gösterir.
 
@@ -41,7 +41,7 @@ Torvald, sağ elini verdi. Dadı, tırnaklarını kesti; tırnaklar, sarı, kal�
 
 Uzuyordu. Ölü elin tırnakları, sağ elinkinden hızlı uzuyordu; Torvald bunu biliyordu, kilise rahipleri böyle derdi, kocakarılar ölülerin tırnaklarının uzadığını söylerdi. Kendi gövdesinin bir yarısı, yavaş yavaş, bir ölüye dönüşüyordu; ve ölü, içeride, kendi hayatını yaşamaya devam ediyordu.
 
-Odanın içine baktı. Ocak, kırmızı bir kor yığınıydı; taş çıkıntıda mum yanıyordu; duvarda, Torvald'ın gençliğinden kalma bir halı asılıydı: kırık bir dağ geçidi, ortasında bir kule. Halının kenarları güvelenmişti. Torvald, o halıyı, kendi babası Geçit Lordu Varyn'in odasından getirmişti; babası öldüğünde, otuz yaşındaydı; şimdi, kırk iki yıl sonra, halının ortasındaki kule, güveler tarafından yenmişti, ve Torvald, halının yerini değiştirmemişti, çünkü o kuleye her baktığında, babasının sesini duyuyordu: *İkinci oğul olmak, kolay değildir. Ama birinci oğul olmak, daha zordur; çünkü birinci oğul, kendini taşımak zorundadır.*
+Odanın içine baktı. Ocak, kırmızı bir kor yığınıydı; taş çıkıntıda mum yanıyordu; duvarda, Torvald'ın gençliğinden kalma bir halı asılıydı: kırık bir dağ geçidi, ortasında bir kule. Halının kenarları güvelenmişti. Torvald, o halıyı, kendi babasının odasından getirmişti; babası öldüğünde, otuz yaşındaydı; şimdi, kırk iki yıl sonra, halının ortasındaki kule, güveler tarafından yenmişti, ve Torvald, halının yerini değiştirmemişti, çünkü o kuleye her baktığında, babasının sesini duyuyordu: *İkinci oğul olmak, kolay değildir. Ama birinci oğul olmak, daha zordur; çünkü birinci oğul, kendini taşımak zorundadır.*
 
 Torvald, ilk oğul olmamıştı.
 
@@ -53,7 +53,7 @@ Sabaha karşı, Kubat geldi.
 
 Kâhya, ayaklarında keçe çizme, elinde defter, kapıda durdu; her sabah aynı saatte gelirdi, ve her sabah aynı şeyi yapardı: iki adım girerdi, kâğıdı okurdu, kararları alırdı, çıkardı. Kubat, Torvald'ın odasında hiç oturmamıştı. Torvald bunu sevmişti; bir kâhyanın oturmaması, lorda saygı değildi, lordu rahatsız etmemekti, ve Torvald, kırk yıldır, rahatsız edilmekten hoşlanmayan bir adamdı.
 
-"Kapı vergisi," dedi Kubat. "On üç araba. Altı at. Tuz, şarap, kumaş. Sorel kâtibi iki gümüş eksik ödedi, dedi ki iki araba boş gelmiş."
+"Kapı vergisi," dedi Kubat. "On üç araba. Altı at. Tuz, şarap, kumaş. Elvun kâtibi iki gümüş eksik ödedi, dedi ki iki araba boş gelmiş."
 
 "Boş mu?"
 
@@ -67,7 +67,7 @@ Torvald'ın sağ eli, yorganın püskülünü buldu, çevirdi. "Vergi taşına y
 
 "Donuyor."
 
-"Demirkol?"
+"Taşyatak?"
 
 "Üçüncü viraja kadar," dedi Kubat. "Buz kırıcılar, üçüncü virajın ötesine geçmiyorlar. Umur öyle dedi."
 
@@ -79,7 +79,7 @@ Kubat bir an durdu. "Harun," dedi.
 
 "Ne?"
 
-"Ölünün adı," dedi Kubat. "Kapıaltı'da bir kadın geldi. Dedi ki, kocası dört hafta önce kuzeye gitti. Gri pelerin, mavi mintan. Demirkol'un batısında kömür yakardı. Adı Harun'du."
+"Ölünün adı," dedi Kubat. "Kapıaltı'da bir kadın geldi. Dedi ki, kocası dört hafta önce kuzeye gitti. Gri pelerin, mavi mintan. Taşyatak'ın batısında kömür yakardı. Adı Harun'du."
 
 Torvald, tavana baktı.
 
@@ -123,7 +123,7 @@ Sorun, yakmak değildi. Sorun, kimin aradığıydı. Bir adam ölü bulunur, bir
 
 Torvald, gözlerini kapattı.
 
-Arkasında, duvarın içinde, bir şey nefes alıyordu. Torvald bunu, kırk yıldır duyuyordu; her kış, ilk kar yağdığında, kalede, duvarların içinden, uzun, ağır bir nefes geçerdi; bir boru gibi, bir kuyu gibi, çok aşağıdan. Bir kere, otuz yıl önce, bunu Edvin'in mezarı başında duymuştu; bir kere, on yıl sonra, kendi oğlunun beşiğinin yanında duymuştu. Her seferinde, kendi kendine aynı şeyi söylemişti: rüzgâr. Demirkapı'da rüzgâr, taşların arasından bin bir sesle geçerdi; ve bir adam, bir sese rüzgâr diyebiliyorsa, o ses, rüzgârdı.
+Arkasında, duvarın içinde, bir şey nefes alıyordu. Torvald bunu, kırk yıldır duyuyordu; her kış, ilk kar yağdığında, kalede, duvarların içinden, uzun, ağır bir nefes geçerdi; bir boru gibi, bir kuyu gibi, çok aşağıdan. Bir kere, otuz yıl önce, bunu Edvin'in mezarı başında duymuştu; bir kere, on yıl sonra, kendi oğlunun beşiğinin yanında duymuştu. Her seferinde, kendi kendine aynı şeyi söylemişti: rüzgâr. Kapankaya'da rüzgâr, taşların arasından bin bir sesle geçerdi; ve bir adam, bir sese rüzgâr diyebiliyorsa, o ses, rüzgârdı.
 
 Bu kış, nefes, daha yakındı. Torvald bunu, kemiklerinde biliyordu. Sol omzunun kaşınan yerinde, sol ayağının altında, sağ kolunun dirseğinde; vücudunun, kaybettiği yarısı, bir şey duyuyordu; ve o şey, ne duyduğunu söylemiyordu.
 
@@ -149,7 +149,7 @@ Halden oturdu; ocak ile yatak arasındaki iskemleye, bir şövalye gibi, sırtı
 
 "Baba."
 
-"Sorel'in kâtibi, bizim kapımızın iki gümüş eksik aldığını Gülkıyı'ya yazar. Bir hafta sonra, bir gemi, tuzu bir kuruş fazlaya satar. İki gümüş değil, iki yüz gümüş." Torvald, kelimeleri, dişlerinin arasından, tek tek çıkardı; konuşmak, artık bir işti, ve iş, yavaş yapılırdı. "Sen, kapıda, para toplayacak adam değilsin. Sen kapıyı tutacak adamsın."
+"Elvun'un kâtibi, bizim kapımızın iki gümüş eksik aldığını Akçaliman'a yazar. Bir hafta sonra, bir gemi, tuzu bir kuruş fazlaya satar. İki gümüş değil, iki yüz gümüş." Torvald, kelimeleri, dişlerinin arasından, tek tek çıkardı; konuşmak, artık bir işti, ve iş, yavaş yapılırdı. "Sen, kapıda, para toplayacak adam değilsin. Sen kapıyı tutacak adamsın."
 
 "Kapıyı tutmak," dedi Halden. "Kimden?"
 
@@ -195,7 +195,7 @@ Torvald, o cümleyi, bir şeyin üstüne düşen bir anahtar gibi duydu.
 
 Dadı, başını salladı; dışarı çıktı. Torvald, yalnız kaldı; ve o dakikada, ömrünün son on yılını, içinden geçirdi.
 
-Elli yıl, bir dağ geçidinin önünde durmuştu. Torvald Varyn, o geçidi, kendi elleriyle tutmuştu; babası öldüğünde, yirmi beş yaşındaydı, ve geçit, bir yarıktı; yarığın içinde, iki yüz kişi yaşardı; şimdi, yarığın içinde iki bin kişi yaşıyordu, ve iki bin kişi, geçitten akan vergiyle besleniyordu. Torvald, o iki bin kişiyi, kırk yıl boyunca, kendi göğsüyle örtmüştü. Ve şimdi, o göğsün sol yanı, ölmüştü.
+Elli yıl, bir dağ geçidinin önünde durmuştu. Torvald Kadran, o geçidi, kendi elleriyle tutmuştu; babası öldüğünde, yirmi beş yaşındaydı, ve geçit, bir yarıktı; yarığın içinde, iki yüz kişi yaşardı; şimdi, yarığın içinde iki bin kişi yaşıyordu, ve iki bin kişi, geçitten akan vergiyle besleniyordu. Torvald, o iki bin kişiyi, kırk yıl boyunca, kendi göğsüyle örtmüştü. Ve şimdi, o göğsün sol yanı, ölmüştü.
 
 Kırk yıl önceki geceden beri, bir şeyi taşıyordu. Bir kapıyı, bir nefesi, bir adı, ve bir camı.
 
@@ -205,9 +205,9 @@ Yatağın altındaki sandığı, Dadı çıktıktan sonra, sağ eliyle, oturabil
 
 İki mektup, iki ayrı kışta yazılmıştı.
 
-Birincisi, Kırkkule'ye yazılmıştı; üstünde kartal mührü vardı; Torvald, bir gece, kâtibi odadan çıkardıktan sonra, kendi eliyle yazmıştı, ve yazarken eli titremişti, ve titreyen elin yazısı, kâğıtta, bir yürüyen adamın izine benzemişti. Mektup, dört satırdı. Son satırında şunlar yazıyordu: *Kartal, kapı açılırsa, ikimiz de yokuz; kapı kapalıysa, ikimizin de adı yok. Hangisini seçtiğimizi, tarih yazacak.*
+Birincisi, Kırkburç'a yazılmıştı; üstünde kartal mührü vardı; Torvald, bir gece, kâtibi odadan çıkardıktan sonra, kendi eliyle yazmıştı, ve yazarken eli titremişti, ve titreyen elin yazısı, kâğıtta, bir yürüyen adamın izine benzemişti. Mektup, dört satırdı. Son satırında şunlar yazıyordu: *Kartal, kapı açılırsa, ikimiz de yokuz; kapı kapalıysa, ikimizin de adı yok. Hangisini seçtiğimizi, tarih yazacak.*
 
-İkincisi, Tuzbataklığı'na yazılmıştı; mühürsüzdü; hiç kapatılmamıştı; katlanmış, öylece duruyordu. Torvald, o mektubu, karısının üçüncü çocuğu ölü doğduğu gece yazmaya başlamıştı; iki satır yazmış, sonra bırakmıştı. İki satırda, şunlar vardı: *Oris'in kayığı boş bulunduğunda, senin adamlarını gördük. Söyle bana: bir rahip, bir sırrı otuz iki gümüşe mi satar, yoksa—*
+İkincisi, Tuzsaz'a yazılmıştı; mühürsüzdü; hiç kapatılmamıştı; katlanmış, öylece duruyordu. Torvald, o mektubu, karısının üçüncü çocuğu ölü doğduğu gece yazmaya başlamıştı; iki satır yazmış, sonra bırakmıştı. İki satırda, şunlar vardı: *Oris'in kayığı boş bulunduğunda, senin adamlarını gördük. Söyle bana: bir rahip, bir sırrı otuz iki gümüşe mi satar, yoksa—*
 
 Mektup, orada bitiyordu.
 
@@ -219,7 +219,7 @@ Torvald, camı aldı. Ağzı kırıktı; bir zamanlar bir şişenin dibiydi; iç
 
 Camı, Edvin'in cebinde bulmuştu.
 
-Buzboğazı Savaşı, kırk yıl önce, iki gün sürmüştü. İkinci günün akşamı, Torvald, buzun üstünde, kardeşini bulmuştu; Edvin, sırtüstü yatıyordu, kolları iki yana açılmış, gözleri açıktı, ve gözleri, gökyüzüne değil, buzun kendisine bakıyordu. Karnıl, nehrin yüzeyinde, kırılmıştı; Torvald'ın kardeşi, kırık buzun üstünde, kırık suyun üstünde yatıyordu, ve su, onu, bir yaprak gibi, yavaşça çekiyordu. Torvald, onu kucaklamıştı. Edvin, o an, hâlâ sıcaktı; soluk veriyordu; nefesi, bir boşlukta, bir tıkanıklıkta, bir ağızda yankılanıyordu.
+Buzboğazı Savaşı, kırk yıl önce, iki gün sürmüştü. İkinci günün akşamı, Torvald, buzun üstünde, kardeşini bulmuştu; Edvin, sırtüstü yatıyordu, kolları iki yana açılmış, gözleri açıktı, ve gözleri, gökyüzüne değil, buzun kendisine bakıyordu. Buz, nehrin yüzeyinde kırılmıştı; Torvald'ın kardeşi, kırık buzun üstünde, kırık suyun üstünde yatıyordu, ve su, onu, bir yaprak gibi, yavaşça çekiyordu. Torvald, onu kucaklamıştı. Edvin, o an, hâlâ sıcaktı; soluk veriyordu; nefesi, bir boşlukta, bir tıkanıklıkta, bir ağızda yankılanıyordu.
 
 Edvin, iki şey söylemişti.
 
@@ -233,23 +233,23 @@ Torvald, kardeşinin elini tutmuştu. Kardeşi, gülmüştü; o gülüş, Torval
 
 Torvald, kardeşini taşımıştı. Otuz iki yaşındaydı; kardeşi, otuz yaşındaydı; ikisi de birer kapı kadar ağır adamdı. Torvald, onu, iki bin adım taşımıştı; buzun üstünde, karda, kırık taşların arasında; ve onu bıraktığında, elleri, kendi kardeşinin kanıyla değil, kendi tırnaklarının kırıklarıyla doluydu.
 
-Kardeşinin ölümünden on yıl önce, Kırkkule'nin yüksek salonunda, yedi ad sayılmıştı.
+Kardeşinin ölümünden on yıl önce, Kırkburç'un yüksek salonunda, yedi ad sayılmıştı.
 
-Torvald, o yedi adı, hâlâ sırayla bilirdi; sıralarını bilmek, bir lanetti: Torvald Varyn, Edvin Varyn, Kral Osric Karn, kardeşi Ser Wilan Karn, taşçı Usta Vel, ağcı Çakır, ve nehir rahibi Oris. Yedi ad, yüksek sesle söylenmişti, ve hiçbiri kâğıda yazılmamıştı; çünkü bir yemini yazmak, onu tutmak değil, onu bir gün birine göstermek demekti.
+Torvald, o yedi adı, hâlâ sırayla bilirdi; sıralarını bilmek, bir lanetti: Torvald Kadran, Edvin Kadran, Kral Osric Urdran, kardeşi Ser Wilan Urdran, taşçı Usta Vel, ağcı Çakır, ve nehir rahibi Oris. Yedi ad, yüksek sesle söylenmişti, ve hiçbiri kâğıda yazılmamıştı; çünkü bir yemini yazmak, onu tutmak değil, onu bir gün birine göstermek demekti.
 
 Söz, şuydu: kapı kapalı kalacaktı. Halkalar hiç açılmayacaktı. Buz, işini yapacaktı; buz, her kış, biraz daha kalınlaşacaktı; ve insanlar, bir gün, aşağıda ne olduğunu, bir masal sanacaktı.
 
-Sonra, bir yıl geçti, ve Rahip Oris'in kayığı, Ortakol'un ağzında, boş bulundu.
+Sonra, bir yıl geçti, ve Rahip Oris'in kayığı, Delisu'nun ağzında, boş bulundu.
 
 Kayık, kıyıya bağlıydı; kürekler, yerindeydi; rahibin cübbesi, katlanmış, oturağın üstünde duruyordu; ve nehir, o gün, durgundu, süt gibi beyazdı, ve kıyıda, çamurun içinde, bir tek ayak izi vardı: kayığa binen, ama kayıktan inmeyen bir adam.
 
 Ceset bulunmadı. Rahip Oris, o günden sonra, ne bir yerde göründü, ne bir yerde gömüldü.
 
-Torvald, o gün, ilk defa, şunu anladı: yedi ad sayan yedi adamdan biri, sırrı satmıştı; ya da sırrı, satılacak bir şeye dönüştürmüştü. Ve Ferro, bataklığın içinde, o günden sonra, susmayı bıraktı; susmayı bıraktı, ama konuşmadı da; bir şeyi bilen, ama bilmediğini söyleyen bir komşu gibi, yıllarca bekledi.
+Torvald, o gün, ilk defa, şunu anladı: yedi ad sayan yedi adamdan biri, sırrı satmıştı; ya da sırrı, satılacak bir şeye dönüştürmüştü. Ve Melvan, bataklığın içinde, o günden sonra, susmayı bıraktı; susmayı bıraktı, ama konuşmadı da; bir şeyi bilen, ama bilmediğini söyleyen bir komşu gibi, yıllarca bekledi.
 
 İhanet hikâyesini, o yıl uydurdular.
 
-Bunu, Kırkkule'de, bir kış gecesi, üç adam oturup kararlaştırdı: Osric, Wilan ve Torvald. Bir hikâye gerekiyordu; çünkü iki hane, bir gece, sebepsiz toplanmışsa, iki hane, bir gün, sebepsiz dağılırdı; ve sebepsiz dağılan hanelerin arasından, soru soranlar geçerdi. Öyleyse bir sebep yazılacaktı. En kolay sebep, en eski sebep: ihanet. Varyn, Karn'a ihanet etmişti; taht, o yüzden sallanmıştı; kapı, o yüzden kapanmıştı; ve nehir, o yüzden, o yıl, geç kalmıştı.
+Bunu, Kırkburç'ta, bir kış gecesi, üç adam oturup kararlaştırdı: Osric, Wilan ve Torvald. Bir hikâye gerekiyordu; çünkü iki hane, bir gece, sebepsiz toplanmışsa, iki hane, bir gün, sebepsiz dağılırdı; ve sebepsiz dağılan hanelerin arasından, soru soranlar geçerdi. Öyleyse bir sebep yazılacaktı. En kolay sebep, en eski sebep: ihanet. Kadran, Urdran'a ihanet etmişti; taht, o yüzden sallanmıştı; kapı, o yüzden kapanmıştı; ve nehir, o yüzden, o yıl, geç kalmıştı.
 
 Kral Osric, o hikâyeyi kabul etti; çünkü bir kral, kaybettiği tahtı, bir ihanete bağlarsa, halkı ona acırdı; acıyan halk, vergi öderdi.
 
@@ -263,17 +263,17 @@ Savaş, hikâyeden sonra geldi. İki yıl sürdü. Buzboğazı'nda bitti. Kral O
 
 Wilan, savaşın son ayında öldü.
 
-Torvald, kartalın tahtını, bir daha kurulmamak üzere devirdi; ve Kırkkule'de, taç giyme töreni için hazırlanmış olan kürsü, söküldü, odun olarak, kışın, bir garnizona gönderildi. Torvald bunu yaptı; yaparken ağlamadı; ama kürsünün odunlarını taşıyan arabayı, kapıdan çıkarken, gözleriyle takip etti.
+Torvald, kartalın tahtını, bir daha kurulmamak üzere devirdi; ve Kırkburç'ta, taç giyme töreni için hazırlanmış olan kürsü, söküldü, odun olarak, kışın, bir garnizona gönderildi. Torvald bunu yaptı; yaparken ağlamadı; ama kürsünün odunlarını taşıyan arabayı, kapıdan çıkarken, gözleriyle takip etti.
 
-Aldric Karn, o sırada on yaşındaydı.
+Aldric Urdran, o sırada on yaşındaydı.
 
-Torvald onu hatırlıyordu: Kırkkule'nin merdivenlerinde oturmuş, elinde bir kartal tüyü tutuyor, tüyü mumun alevine tutup yakıyordu. Tüy, yanarken kıvrılıyordu; kokusu, tırnak yanığı gibiydi; çocuk, tüyü yakarken ağlıyordu, ama elini çekmiyordu. Torvald yanına oturmuştu.
+Torvald onu hatırlıyordu: Kırkburç'un merdivenlerinde oturmuş, elinde bir kartal tüyü tutuyor, tüyü mumun alevine tutup yakıyordu. Tüy, yanarken kıvrılıyordu; kokusu, tırnak yanığı gibiydi; çocuk, tüyü yakarken ağlıyordu, ama elini çekmiyordu. Torvald yanına oturmuştu.
 
 "Yakma," demişti.
 
 "Yakacağım," demişti çocuk. "Büyüyünce, geri alacağım."
 
-Torvald, ona hiçbir şey söylememişti. Kırk yıl boyunca, ona hiçbir şey söyleyememişti; ve o söylenmeyen sözler, Kırkkule'nin merdivenlerinde, tüy kokusuyla birlikte, havada kalmıştı.
+Torvald, ona hiçbir şey söylememişti. Kırk yıl boyunca, ona hiçbir şey söyleyememişti; ve o söylenmeyen sözler, Kırkburç'un merdivenlerinde, tüy kokusuyla birlikte, havada kalmıştı.
 
 O geceden sonra, Torvald, bir daha kardeşinin adını, yüksek sesle, iki kez söylemişti: bir kez, annesine haber verirken; bir kez, oğluna adını koyarken. İkinci seferde, karısı doğum yatağında, yorgun, kanlı, bir bebeği kucağına almış, ve Torvald'a, "Adı?" diye sormuştu.
 
@@ -299,7 +299,7 @@ Sözler, içinde vardı. Kırk yıl boyunca, orada durmuşlardı: bir kapı, bir
 
 "Donuyor, lordum."
 
-"Demirkol..."
+"Taşyatak..."
 
 "Üçüncü viraja kadar, lordum. Umur geçmiyor."
 
@@ -313,7 +313,7 @@ Torvald, gözlerini kıstı; gırtlağında, bir kelime, bir taş gibi duruyordu
 
 "Kapıda," dedi Torvald, "kim var?"
 
-Edrin bir an durdu. "Gülkıyı kervanı, lordum. Vergi."
+Edrin bir an durdu. "Akçaliman kervanı, lordum. Vergi."
 
 Torvald, gözlerini kapattı.
 
@@ -321,7 +321,7 @@ Adamın yapabileceği en kötü şeyi yapmıştı: bir kelimeyi, doğru kelimeyi
 
 Edrin, babasının ağladığını gördü.
 
-Torvald, oğlanın bunu gördüğünü, gözlerinin kapanmamasından anladı; ve o an, Torvald'ın içinde, bir şey daha kırıldı, ve kırılan şey, gururdu. Demirkapı'nın lordu, yetmiş iki yaşında, yatağında, oğlunun önünde ağlıyordu; ve ağlamasının sebebi, oğlan tarafından bilinmiyordu.
+Torvald, oğlanın bunu gördüğünü, gözlerinin kapanmamasından anladı; ve o an, Torvald'ın içinde, bir şey daha kırıldı, ve kırılan şey, gururdu. Kapankaya'nın lordu, yetmiş iki yaşında, yatağında, oğlunun önünde ağlıyordu; ve ağlamasının sebebi, oğlan tarafından bilinmiyordu.
 
 "Git," dedi Torvald.
 
@@ -377,10 +377,10 @@ Nefes, bir süre durdu; sonra devam etti; ve Torvald, o nefesin, kendi sözünü
 
 **Bölüm Notları**
 
-- **Açılan sırlar:** Kırk yıl önceki anlaşma: Kırkkule'nin yüksek salonunda yedi ad yüksek sesle sayıldı — Torvald Varyn, Edvin Varyn, Kral Osric Karn, Ser Wilan Karn, taşçı Usta Vel, ağcı Çakır, rahip Oris — ve hiçbiri kâğıda yazılmadı. Anlaşmadan bir yıl sonra Rahip Oris'in kayığı Ortakol'un ağzında boş bulundu (kürekler yerinde, cübbe katlanmış, ceset yok). "Varyn, Karn'a ihanet etti" hikâyesi üç adamın (Osric, Wilan, Torvald) kararıyla uyduruldu. Torvald, anlaşmayı oğluna anlatmayı denedi, dili tutuldu. Ölü adamın adı Harun olabilir, ama Torvald buna inanmıyor. Torvald, buzun üstünden gelen her şeyin kırk yıl önceki geceyi hatırlattığını düşünüyor; cesedi gömdürmek yerine yaktırıyor. Halden, iki köpeği kestirdi (kendi kafasını duvara vuran Uluk — adı bölümde "Ulu" olarak geçiyor; tutarlılık için tek yazım kullanılacak). Torvald'ın sandığında yeşil cam, gümüş yüzük, gönderilmemiş iki mektup ve Edvin'in kanlı pelerin parçası var. Torvald, Kırkkule Savaşı'nın (Buzboğazı) gerçeğini ve Edvin'in son sözlerini hatırlıyor: "Cam. Cebimde." ve "Yedinciyi çizdiler."
+- **Açılan sırlar:** Kırk yıl önceki anlaşma: Kırkburç'un yüksek salonunda yedi ad yüksek sesle sayıldı — Torvald Kadran, Edvin Kadran, Kral Osric Urdran, Ser Wilan Urdran, taşçı Usta Vel, ağcı Çakır, rahip Oris — ve hiçbiri kâğıda yazılmadı. Anlaşmadan bir yıl sonra Rahip Oris'in kayığı Delisu'nun ağzında boş bulundu (kürekler yerinde, cübbe katlanmış, ceset yok). "Kadran, Urdran'a ihanet etti" hikâyesi üç adamın (Osric, Wilan, Torvald) kararıyla uyduruldu. Torvald, anlaşmayı oğluna anlatmayı denedi, dili tutuldu. Ölü adamın adı Harun olabilir, ama Torvald buna inanmıyor. Torvald, buzun üstünden gelen her şeyin kırk yıl önceki geceyi hatırlattığını düşünüyor; cesedi gömdürmek yerine yaktırıyor. Halden, iki köpeği kestirdi (kendi kafasını duvara vuran Uluk — adı bölümde "Ulu" olarak geçiyor; tutarlılık için tek yazım kullanılacak). Torvald'ın sandığında yeşil cam, gümüş yüzük, gönderilmemiş iki mektup ve Edvin'in kanlı pelerin parçası var. Torvald, Buzboğazı Savaşı'nın (Buzboğazı) gerçeğini ve Edvin'in son sözlerini hatırlıyor: "Cam. Cebimde." ve "Yedinciyi çizdiler."
 
 - **Kapanan sırlar:** Torvald, sırrı oğluna aktarmayı denedi ve başaramadı; "Kapı" kelimesi yanlış cümleye düştü, sır onunla kaldı. Kubat'ın lorduna yalan söylediği doğrulandı (parmaklar sorusu). Ceset, gömülmek yerine yakılacak.
-- **Açılan sırlar (ikinci katman):** Rahip Oris'in kayığı ve "bir tek ayak izi": Torvald, sırrın Oris üzerinden sızdığını düşünüyor. Kral Osric'in ölüm sözleri: "Kartal Tahtı... yakın." Karn'ın taç kürsüsü odun olarak yakıldı. Aldric Karn, on yaşındayken Kırkkule merdivenlerinde kartal tüyü yakıyordu.
+- **Açılan sırlar (ikinci katman):** Rahip Oris'in kayığı ve "bir tek ayak izi": Torvald, sırrın Oris üzerinden sızdığını düşünüyor. Kral Osric'in ölüm sözleri: "Kartal Tahtı... yakın." Urdran'ın taç kürsüsü odun olarak yakıldı. Aldric Urdran, on yaşındayken Kırkburç merdivenlerinde kartal tüyü yakıyordu.
 
 - **Ekilen tohumlar:** Torvald'ın gönderilmemiş iki mektubu (kime yazıldığı belli değil). Edvin'in ölmeden önce cebinde taşıdığı, mürekkebi suya karışmış deri parçası. Edvin'in son sözü: "Yedinciyi çizdiler." Maren'in kapı önünde durup açmaması ve Torvald'ın o geceyi hatırlaması (ölü doğan üçüncü çocuk). Edrin'in "kendi kendine okuma yazma öğreniyorum" demesi ve Torvald'ın ona "bir şey yaz, bana oku" emri. Halden'in "bir köpek neden kafasını duvara vurur" sorusu. Torvald'ın babasının ölüm sözü: "O geliyor."
 
